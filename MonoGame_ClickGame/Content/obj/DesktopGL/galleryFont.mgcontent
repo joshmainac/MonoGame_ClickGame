@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/$Github-2023/MonoGame_ClickGame/MonoGame_ClickGame/Content/galleryFont.spritefont</SourceFile>
+  <SourceTime>2023-01-17T18:14:56.7665768-08:00</SourceTime>
+  <DestFile>D:/$Github-2023/MonoGame_ClickGame/MonoGame_ClickGame/Content/bin/DesktopGL/galleryFont.xnb</DestFile>
+  <DestTime>2023-01-17T18:16:57.0514024-08:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T04:44:56-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T04:44:56-07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

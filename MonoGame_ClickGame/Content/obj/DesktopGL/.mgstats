@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/$Github-2023/MonoGame_ClickGame/MonoGame_ClickGame/Content/crosshairs.png","D:/$Github-2023/MonoGame_ClickGame/MonoGame_ClickGame/Content/bin/DesktopGL/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0.3245652
+"D:/$Github-2023/MonoGame_ClickGame/MonoGame_ClickGame/Content/galleryFont.spritefont","D:/$Github-2023/MonoGame_ClickGame/MonoGame_ClickGame/Content/bin/DesktopGL/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0.2374566
+"D:/$Github-2023/MonoGame_ClickGame/MonoGame_ClickGame/Content/sky.png","D:/$Github-2023/MonoGame_ClickGame/MonoGame_ClickGame/Content/bin/DesktopGL/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0.652244
+"D:/$Github-2023/MonoGame_ClickGame/MonoGame_ClickGame/Content/target.png","D:/$Github-2023/MonoGame_ClickGame/MonoGame_ClickGame/Content/bin/DesktopGL/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0.0119566

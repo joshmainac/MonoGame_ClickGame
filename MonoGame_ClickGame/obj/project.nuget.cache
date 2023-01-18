@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x2CKi6XpS7g+p9+9mm320l50EogZRsn9fA8Nv23KUHcNTd6INiI5UhyXOJxY3dcONert0dj+W3JU7UT0d2BnvQ==",
+  "success": true,
+  "projectFilePath": "D:\\$Github-2023\\MonoGame_ClickGame\\MonoGame_ClickGame\\MonoGame_ClickGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IamJo\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\IamJo\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
